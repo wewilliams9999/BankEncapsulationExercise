@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UxcvDRRiKOqMZ3CaRpibqxqJZKMB1itUPQdkGeMhF1EbHRotZxbHubeNwVERL5sK/16NEyx21FgogNk92uRAlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\BankEncapsulationExercise\\BankEncapsulationExercise\\BankEncapsulationExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
